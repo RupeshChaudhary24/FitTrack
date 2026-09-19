@@ -27,3 +27,9 @@ The progress history remained after editing the goal.
 The delete confirmation worked and the selected goal was removed.
 
 The saved goals remained after closing and reopening the application.
+
+I tested a fat loss goal and the progress showed 50%.
+
+I tested an endurance distance goal and the progress showed 50%.
+
+I tested an endurance time goal and the progress showed 50%.

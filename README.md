@@ -30,4 +30,3 @@ The application stores goal information in a goals.json file inside the user's l
 - Visual Studio 2022
 - Git and GitHub
 - System.Text.Json
-- ChatGPT was used for study support, initial code guidance and debugging. I reviewed and tested the application in Visual Studio.

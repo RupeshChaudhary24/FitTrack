@@ -33,6 +33,7 @@ I tested a fat loss goal and the progress showed 50%.
 I tested an endurance distance goal and the progress showed 50%.
 
 I tested an endurance time goal and the progress showed 50%.
+
 The program rejected a weight loss goal when the target was higher than the starting value.
 
 The program prevented a goal from being saved without a name.
